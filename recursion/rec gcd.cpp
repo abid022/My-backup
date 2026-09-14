@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+                                      // tis is gcd.
 int gcd(int a,int b){
     
     if(b==0) return a;
